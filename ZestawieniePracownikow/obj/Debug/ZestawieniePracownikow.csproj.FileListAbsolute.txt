@@ -1,0 +1,10 @@
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\bin\Debug\ZestawieniePracownikow.exe.config
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\bin\Debug\ZestawieniePracownikow.exe
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\bin\Debug\ZestawieniePracownikow.pdb
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.csprojAssemblyReference.cache
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.Form1.resources
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.Properties.Resources.resources
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.csproj.GenerateResource.cache
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.csproj.CoreCompileInputs.cache
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.exe
+G:\C#-Projekty\ZestawieniePracownikow\ZestawieniePracownikow\obj\Debug\ZestawieniePracownikow.pdb

@@ -1,0 +1,10 @@
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\bin\Debug\Obwody.exe.config
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\bin\Debug\Obwody.exe
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\bin\Debug\Obwody.pdb
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.csprojAssemblyReference.cache
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.Form1.resources
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.Properties.Resources.resources
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.csproj.GenerateResource.cache
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.csproj.CoreCompileInputs.cache
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.exe
+G:\C#-Projekty\ZestawieniePracownikow\Obwody\obj\Debug\Obwody.pdb
